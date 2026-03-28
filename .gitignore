@@ -1,0 +1,12 @@
+
+# Ignoruje adresář .vagrant/ s metadaty
+.vagrant/
+
+.git/
+
+.images/
+
+.docs/
+
+# Ignoruje všechny soubory .box, kvůli velikosti
+*.box
